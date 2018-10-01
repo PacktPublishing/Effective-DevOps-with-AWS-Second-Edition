@@ -1,5 +1,4 @@
 # Effective-DevOps-with-AWS-Second-Edition
-Effective DevOps with AWS Second Edition, published by Packt 
 
 <a href="https://www.packtpub.com/virtualization-and-cloud/effective-devops-aws-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781789539974"><img src="https://www.packtpub.com/sites/default/files/9781789539974.png" alt="Effective DevOps with AWS Second Edition" height="256px" align="right"></a>
 
