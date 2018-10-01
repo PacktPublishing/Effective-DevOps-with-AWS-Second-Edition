@@ -65,7 +65,7 @@ is currently working as a DevOps AWS Specialist for Siemens. He possesses a mast
  is a DevOps engineer who started working on DevOps engineering concepts over 10 years ago, before the term was even coined. He worked in several companies ranging from small start-ups to enterprises, including Qualys, Square, and more recently, Medium. Outside of work, Nathaniel lives a fabulous life where he enjoys running after his very active kids and spending a fortune on occasional date nights with his wife. Although Nathaniel is French, he prefers exploring local stout beers with friends than drinking wine. He holds a MS degree in system, network, and security from Ecole Pour l'Informatique et les Techniques Avancées (EPITA), a top CS engineering school in France.
 
 # Other book by the author
-* [Learning AWS IoT](https://www.packtpub.com/virtualization-and-cloud/learning-aws-iot?utm_source=github&utm_medium=repository&utm_campaign=9781788396110)
+* [Effective DevOps with AWS](https://www.packtpub.com/application-development/effective-devops-aws?utm_source=github&utm_medium=repository&utm_campaign=9781786466815)
 
 ### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
