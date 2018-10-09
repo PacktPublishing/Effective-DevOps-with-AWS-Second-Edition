@@ -1,2 +1,0 @@
-#!/bin/sh
-echo "HELLOWORLD_VERSION=${APPLICATION_NAME}-${DEPLOYMENT_GROUP_NAME}-${DEPLOYMENT_GROUP_ID}-${DEPLOYMENT_ID}" > /usr/local/helloworld/version
